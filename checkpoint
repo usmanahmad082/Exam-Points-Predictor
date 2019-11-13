@@ -1,0 +1,2 @@
+model_checkpoint_path: "exam_bonus_model"
+all_model_checkpoint_paths: "exam_bonus_model"
